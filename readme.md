@@ -73,3 +73,6 @@ Then, when a new change is added to the upstream repo, you can add it to your ow
 2. `git push`
 
 *Note:* it is recommended to use git through a client like VS Code and sign in with your GitHub user. If you use git in a terminal, you may need to authenticate with GitHub with a [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) as your password.
+
+
+eval "$(/home/sondre/Documents/NTNU/3rd_semester/TDT4195/image_processing/miniconda3/bin/conda shell.bash hook)"
